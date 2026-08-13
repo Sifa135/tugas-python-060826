@@ -1,0 +1,2 @@
+hewan="Kucing"
+print(hewan)
